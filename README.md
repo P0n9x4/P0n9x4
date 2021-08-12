@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @P0n9x4
+- 👀 I’m interested in code on C++
+- 🌱 I’m currently learning in university
